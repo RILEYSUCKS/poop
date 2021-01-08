@@ -1,4 +1,4 @@
-# poop
+# PoopMod
 This is a poop mod thing.
 //Fabric loader is needed//
 
